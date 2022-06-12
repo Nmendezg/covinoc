@@ -1,0 +1,175 @@
+#divImg {
+    /* layout porperties*/
+    top: 0px;
+    left: 0px;
+    width: 1878px;
+    height: 90px;
+
+    /* UI properties */
+
+    background: #FFFFFF no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    display: flex;
+    justify-content: center;
+}
+
+#logo {
+    /* UI properties */
+    background: transparent no-repeat padding-box;
+    opacity: 1;
+}
+
+#divForm1 {
+    /* layout porperties*/
+    top: 93px;
+    left: 0px;
+    width: 1878px;
+    height: 198px;
+
+    /* UI properties */
+    background: #01CEB6 no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+
+}
+
+#divNuevaTarea {
+    /* layout porperties*/
+    padding-top: 47px;
+    top: 47px;
+    margin-left: 379px;
+    width: 155px;
+    height: 26px;
+}
+
+#mas {
+    font-size: 30px;
+    color: #FFFFFFDE;
+}
+
+#nuevaTarea {
+    /* UI properties */
+    text-align: left;
+    font: normal normal bold 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    letter-spacing: 0.62px;
+    color: #FFFFFFDE;
+
+}
+
+#idForm2 {
+    top: 189px;
+    margin-left: 379px;
+    font-size: 10px;
+    color: #FFFFFF99;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#inputTitulo {
+    background: transparent;
+    border: 0;
+    border-bottom: 1px solid #FFFFFF99;
+    width: 584px;
+    color: #FFFFFF99;
+}
+
+::placeholder {
+    color: #FFFFFF99;
+}
+
+#tareaCompletada {
+    margin-left: 62px;
+}
+
+#inputCheckBox {
+    margin-left: 15px;
+}
+
+#butGuardar {
+    margin-left: 130px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font: normal normal medium;
+    width: 193px;
+    border-radius: 40px;
+}
+
+#divBuscador {
+    margin-left: 379px;
+    padding-top: 25px;
+}
+
+#iconTareas {
+    color: #13806A;
+}
+
+#labListado {
+    margin-left: 14px;
+    color: #4B9F8E;
+    letter-spacing: 0.78px;
+    font: normal normal bold 25px Roboto;
+
+}
+
+#inpBuscar {
+    margin-left: 600px;
+    width: 400px;
+    border-radius: 23px;
+    background: #FFFFFF no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    height: 46px;
+    border: 1px solid #0EC4C4;
+    opacity: 1;
+
+
+}
+
+#inpBuscar::placeholder {
+    color: #BEBABADE;
+
+}
+
+#divListado {
+    background: #FFFFFF no-repeat padding-box;
+    box-shadow: 0px 3px 6px;
+    margin-left: 379px;
+    margin-top: 22px;
+    width: 1193px;
+    height: 546px;
+
+}
+
+#tablaTareas {
+    text-align: center;
+}
+
+thead {
+    letter-spacing: 0.62px;
+    color: #11766A;
+    font: normal normal normal 20px Roboto;
+}
+
+#thTareas {
+    width: 614px;
+    text-align: center;
+}
+
+#divPagina {
+    margin-left: 900px;
+    margin-top: 46px;
+    text-align: center;
+    width: 1878px;
+    height: 90px;
+}
+
+.tachado {
+    text-decoration: line-through;
+}
+
+.tdNombre{
+    color: #707070;
+}
+
+#gitIcon{
+    margin-left: 379px;
+}
